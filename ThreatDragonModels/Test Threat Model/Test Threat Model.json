@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Test Threat Model",
-    "owner": "Me"
+    "owner": "Me",
+    "description": "Test"
   },
   "detail": {
     "contributors": [],
